@@ -79,19 +79,19 @@ hasil_kedelai_lokasi4 = data_panen['Lokasi4']['hasil_panen']['kedelai']
 hasil_kedelai_lokasi5 = data_panen['Lokasi5']['hasil_panen']['kedelai']
 
 # Print untuk memastikan hasil
-# print(f"\nHasil Panen Padi per Lokasi:")
-# print("Lokasi 1:", hasil_padi_lokasi1)
-# print("Lokasi 2:", hasil_padi_lokasi2)
-# print("Lokasi 3:", hasil_padi_lokasi3)
-# print("Lokasi 4:", hasil_padi_lokasi4)
-# print("Lokasi 5:", hasil_padi_lokasi5)
+print(f"\nHasil Panen Padi per Lokasi:")
+print("Lokasi 1:", hasil_padi_lokasi1)
+print("Lokasi 2:", hasil_padi_lokasi2)
+print("Lokasi 3:", hasil_padi_lokasi3)
+print("Lokasi 4:", hasil_padi_lokasi4)
+print("Lokasi 5:", hasil_padi_lokasi5)
 
-# print("\nHasil Panen Kedelai per Lokasi:")
-# print("Lokasi 1:", hasil_kedelai_lokasi1)
-# print("Lokasi 2:", hasil_kedelai_lokasi2)
-# print("Lokasi 3:", hasil_kedelai_lokasi3)
-# print("Lokasi 4:", hasil_kedelai_lokasi4)
-# print("Lokasi 5:", hasil_kedelai_lokasi5)
+print("\nHasil Panen Kedelai per Lokasi:")
+print("Lokasi 1:", hasil_kedelai_lokasi1)
+print("Lokasi 2:", hasil_kedelai_lokasi2)
+print("Lokasi 3:", hasil_kedelai_lokasi3)
+print("Lokasi 4:", hasil_kedelai_lokasi4)
+print("Lokasi 5:", hasil_kedelai_lokasi5)
 
 # no.6
 
